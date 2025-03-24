@@ -26,6 +26,12 @@ export default [
     ],
   },
   {
+    path: '/aisummary',
+    name: 'aisummary',
+    icon: 'BulbOutlined',
+    component: './AiSummary',
+  },
+  {
     path: '/report',
     name: 'report',
     icon: 'PieChart',

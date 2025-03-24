@@ -22,4 +22,5 @@ export default {
   ...noteDay,
   ...report,
   ...footer,
+  'menu.aisummary': 'AI Summary'
 };
