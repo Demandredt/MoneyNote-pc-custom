@@ -3,7 +3,7 @@ import { useRequest } from '@umijs/max';
 import { PageContainer, ProCard } from '@ant-design/pro-components';
 import { Select, Button, Spin, message } from 'antd';
 import { queryAll } from '@/services/common';
-import { generateAISummary } from '@/services/ai';
+import {  generateAISummary } from '@/services/ai';
 
 const { Option } = Select;
 
